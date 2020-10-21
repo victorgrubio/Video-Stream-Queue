@@ -1,0 +1,22 @@
+# Eclipse settings
+.pydevproject/*
+.project/*
+.settings/*
+
+# Python cache
+__pycache__/*
+
+# Tox
+.tox/*
+/.pydevproject
+/.project
+
+# Compiled python modules.
+*.pyc
+
+# Setuptools distribution folder.
+/dist/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+/test.py
